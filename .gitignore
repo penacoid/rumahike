@@ -7,7 +7,7 @@
 /.idea
 /.gitattributes
 /app/code/core
-/app/code/community/*
+/app/code/community
 /app/config_sandbox
 /app/design/adminhtml/default/*
 /app/design/frontend/base/*
