@@ -21,6 +21,7 @@
 /app/etc/modules/Phoenix_*
 /app/code/Magento/TestModule*
 /app/locale/en_US/*
+/app/locale/id_ID.zip
 /app/.htaccess
 /app/Mage.php
 /downloader/*
