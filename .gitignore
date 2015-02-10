@@ -8,6 +8,8 @@
 /.gitattributes
 /app/code/core/*
 /app/code/community/*
+/app/code/local/Smartwave/*
+/app/code/Magento/TestModule*
 /app/config_sandbox
 /app/design/adminhtml/default/*
 /app/design/frontend/base/*
@@ -19,8 +21,12 @@
 /app/etc/modules/Cm_*
 /app/etc/modules/Mage_*
 /app/etc/modules/Phoenix_*
-/app/code/Magento/TestModule*
+/app/etc/modules/Smartwave_*
+/app/locale/de_DE/*
 /app/locale/en_US/*
+/app/locale/fr_FR/*
+/app/locale/nl_NL/*
+/app/locale/ru_RU/*
 /app/locale/id_ID.zip
 /app/.htaccess
 /app/Mage.php
@@ -32,8 +38,13 @@
 /media/*
 /pkginfo/*
 /shell/*
+/skin/adminhtml/default/default/*
+/skin/frontend/base/*
+/skin/frontend/default/*
+/skin/frontend/rwd/*
+/skin/frontend/smartwave/*
+/skin/install/*
 /var/*
-
 /.htaccess*
 /cron.sh
 /favicon.ico
