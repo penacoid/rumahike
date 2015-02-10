@@ -14,7 +14,11 @@
 /app/design/frontend/default/*
 /app/design/frontend/rwd/*
 /app/design/install/*
-/app/etc/config.php
+/app/etc/config.*
+/app/etc/local.*
+/app/etc/modules/Cm_*
+/app/etc/modules/Mage_*
+/app/etc/modules/Phoenix_*
 /app/code/Magento/TestModule*
 /app/locale/en_US/*
 /app/.htaccess
