@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this template, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<layout version="0.1.0">
+  <default>
+    
+        <!-- Remove callouts and rarely used stuff -->
+        <reference name="right">
+          <remove name="right.poll"/>
+          <remove name="paypal.partner.right.logo"/>
+        </reference>
+        
+        <!-- add the local stylesheet -->
+        <reference name="head">
+            <action method="addCss"><stylesheet>css/custom.css</stylesheet></action>
+            <action method="addItem"><type>skin_js</type><name>js/custom.js</name></action>  
+        </reference>
+        
+  </default>
+</layout>
